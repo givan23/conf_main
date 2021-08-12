@@ -30,7 +30,7 @@ module.exports = {
   plugins: [
     new ModuleFederationPlugin(
       {
-        name: 'MFE2',
+        name: 'MAIN',
         filename:
           'remoteEntry.js',
         remotes: {

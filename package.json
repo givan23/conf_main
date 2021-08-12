@@ -1,5 +1,5 @@
 {
-  "name": "@CONF/app2",
+  "name": "@CONF/main",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
