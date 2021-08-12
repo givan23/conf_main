@@ -1,2 +1,2 @@
-# conf_widget_2
-conf_widget_2
+# conf_main
+conf_main
